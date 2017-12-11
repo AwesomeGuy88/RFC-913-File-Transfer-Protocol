@@ -18,7 +18,7 @@ variable.
 
 <br/>
 
- **USE CASES:**
+ **USE CASES:** <br/>
 Sign in with existing username <br/>
 	*USER awesomeo2* <br/>
 	
