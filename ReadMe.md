@@ -2,7 +2,7 @@
 
 Computer networks assignment which demonstrates development on the application layer.
 Program opens a TCP connection to the local host (can be changed) at port 13014 and
-provides the RFC913 file transfer protocol interface.
+provides a file transfer service - the RFC913 protocol.
 
 <br/>
 
