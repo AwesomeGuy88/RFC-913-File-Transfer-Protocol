@@ -22,18 +22,18 @@ variable.
 Sign in with existing username
 	*USER awesomeo2*
 	
-	<br/>
+<br/>
 
 Sign in with valid credentials
 	*ACCT momo32*
 	*PASS bloblo*
-	
-	<br/>
+
+<br/>
 
 Sign in using guest (You have to restart the server to sign out and redo this)
 	*USER guest*
 	
-	<br/>
+<br/>
 	
 Switch modes 
 	*TYPE A*
@@ -41,25 +41,25 @@ Switch modes
 	*TYPE C*
 	*TYPE Dog*		- Dog is an invalid paramter and returns incorrect
 	
-	<br/>
+<br/>
 	
 List current directory
 	*LIST F*
 	*LIST V*
 	
-	<br/>
+<br/>
 	
 Change the directory (need to choose a valid path for your computer)
 	*CDIR C:\Users\Ethan\Desktop\Compsys725\Assignment\Workspace*
 	*ACCT momo32*
 	*PASS bloblo*
 	
-	<br/>
+<br/>
 	
 Delete a file (I've given an example of a text file ive deleted)
 	*KILL C:\Users\Ethan\Desktop\Compsys725\Assignment\Workspace\Assignment1\src\Deleteme.txt*
 			
-			<br/>
+<br/>
 			
 Close the connection
 	*DONE*
