@@ -35,7 +35,7 @@ Sign in using guest (You have to restart the server to sign out and redo this)
 	
 <br/>
 	
-Switch modes 
+Switch modes <br/>
 	*TYPE A*
 	*TYPE B*
 	*TYPE C*
@@ -43,13 +43,13 @@ Switch modes
 	
 <br/>
 	
-List current directory
+List current directory <br/>
 	*LIST F*
 	*LIST V*
 	
 <br/>
 	
-Change the directory (need to choose a valid path for your computer)
+Change the directory (need to choose a valid path for your computer) <br/>
 	*CDIR C:\Users\Ethan\Desktop\Compsys725\Assignment\Workspace*
 	*ACCT momo32*
 	*PASS bloblo*
