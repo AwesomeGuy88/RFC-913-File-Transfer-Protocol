@@ -30,7 +30,7 @@ Sign in with valid credentials <br/>
 
 <br/>
 
-Sign in using guest (You have to restart the server to sign out and redo this) <br/>
+Sign in using guest <br/>
 	*USER guest* <br/>
 	
 <br/>
@@ -39,7 +39,7 @@ Switch modes <br/>
 	*TYPE A* <br/>
 	*TYPE B* <br/>
 	*TYPE C* <br/>
-	*TYPE Dog*		- Dog is an invalid paramter and returns incorrect <br/>
+	*TYPE Dog*	--->Invalid parameter example <br/>
 	
 <br/>
 	
@@ -49,14 +49,14 @@ List current directory <br/>
 	
 <br/>
 	
-Change the directory (need to choose a valid path for your computer) <br/>
+Change the directory <br/>
 	*CDIR C:\Users\Ethan\Desktop\Compsys725\Assignment\Workspace* <br/>
 	*ACCT momo32* <br/>
 	*PASS bloblo* <br/>
 	
 <br/>
 	
-Delete a file (I've given an example of a text file ive deleted) <br/>
+Delete a file  <br/>
 	*KILL C:\Users\Ethan\Desktop\Compsys725\Assignment\Workspace\Assignment1\src\Deleteme.txt* <br/>
 			
 <br/>
